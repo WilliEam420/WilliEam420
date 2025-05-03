@@ -42,11 +42,11 @@ former founder of the game studio DEEP SPACE (which has now disbanded). I have a
 
 ## The ongoing project at present:
 GAME:
-- [ x ] OVERRIDE (RPG Maker VX ACE)
+- [x] OVERRIDE (RPG Maker VX ACE)
 - [ ] Double Permeation (Unity/UE)
 - [ ] Express Freight Service (FNAF FanGame-Clickteam Fusion)
 - [ ] T.A.U (CoreGame)
-- [ x ] Ficsstion (Minecraft Mods)
+- [x] Ficsstion (Minecraft Mods)
 - [ ] Ficsstion Servers (Minecraft Servers)
 
 SOFTWARE:
@@ -56,7 +56,7 @@ SOFTWARE:
 - [ ] WIGGS AI SYSTEM
 
 WEB:
-- [ x ] My own website
+- [x] My own website
 - [ ] Minecraft Servers website
 -----------------------------------------------------------------
 
