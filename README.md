@@ -39,7 +39,25 @@ former founder of the game studio DEEP SPACE (which has now disbanded). I have a
 8. web design
 9. Art and Graphic Design
 ###### ( Accept the job offer based on all the above contents. If necessary, please contact me. )
-## 
+
+## The ongoing project at present:
+GAME:
+- [ ] OVERRIDE (RPG Maker VX ACE)
+- [ ] Double Permeation (Unity/UE)
+- [ ] Express Freight Service (FNAF FanGame-Clickteam Fusion)
+- [ ] T.A.U (CoreGame)
+- [ ] Ficsstion (Minecraft Mods)
+- [ ] Ficsstion Servers (Minecraft Servers)
+
+SOFTWARE:
+- [ ] General-purpose PWR Simulator
+- [ ] General-purpose BWR Simulator
+- [ ] Standard RBMK simulator
+- [ ] WIGGS AI SYSTEM
+
+WEB:
+- [ ] My own website
+- [ ] Minecraft Servers website
 -----------------------------------------------------------------
 
 # My old studio: DEEP SPACE
@@ -56,5 +74,6 @@ After the dissolution of the old DEEP SPACE studio, all the work was done by me 
 <p align="center">DEEP SPACE studio will never exist again.</p>
 
 -----------------------------------------------------------------
-## The differences between sub-database and main database:
-Sub-databases belong to specialized databases. The contents stored within them are purposefully categorized. For instance, Minecraft server databases only store relevant game maps and mods, RDM databases only hold technical-related files, while the main database (the core) is a large repository that contains numerous items.
+## Contact Information and Work Email:
+QQ: 1309115847
+Email: williemxing@outlook.com
