@@ -11,14 +11,18 @@
 <img src="https://github.com/user-attachments/assets/ad7907f8-b721-495c-8e95-27a71f75111b">
 <img src="https://github.com/user-attachments/assets/bad55f12-f63a-4c9c-90c7-a374d1a8ff25">
 <img src="https://github.com/user-attachments/assets/104b047a-41c8-4b3c-8cef-dc6e60976888">
+<img src="https://github.com/user-attachments/assets/406f3402-cf5a-4d7a-a11b-f4eb4b9d33b5">
+
 </div>
 
-<p align="center">Core Repository: STUDIO, Ficsstion, R.D.M.</p>
+<p align="center">Core Repository: STUDIO, Ficsstion, R.D.M.,P.I.C</p>
 
 <div align=center>
 <p align="center">Studio: Project development and core personnel.</p>
 <p align="center">Ficsstion: For Minecraft game server and mod development.</p>
 <p align="center">R.D.M: Research - Design - Manufacturing.</p>
+<p align="center">P.I.C: Protection, investigation, countermeasures.</p>
+
 </div>
 
 -----------------------------------------------------------------
